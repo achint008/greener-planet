@@ -1,0 +1,1 @@
+if r >= 75 and r <= 100 and g >= 60 and g <= 139 and b >= 75 and b <= 100:
